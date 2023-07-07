@@ -1,0 +1,6 @@
+Invoking command in '/home/izakisyotaro/ros2_studies_ws/build/my_messages': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/izakisyotaro/ros2_studies_ws/src/my_messages -DCMAKE_INSTALL_PREFIX=/home/izakisyotaro/ros2_studies_ws/install/my_messages
+Invoked command in '/home/izakisyotaro/ros2_studies_ws/build/my_messages' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/izakisyotaro/ros2_studies_ws/src/my_messages -DCMAKE_INSTALL_PREFIX=/home/izakisyotaro/ros2_studies_ws/install/my_messages
+Invoking command in '/home/izakisyotaro/ros2_studies_ws/build/my_messages': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/izakisyotaro/ros2_studies_ws/build/my_messages -- -j8 -l8
+Invoked command in '/home/izakisyotaro/ros2_studies_ws/build/my_messages' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/izakisyotaro/ros2_studies_ws/build/my_messages -- -j8 -l8
+Invoking command in '/home/izakisyotaro/ros2_studies_ws/build/my_messages': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/izakisyotaro/ros2_studies_ws/build/my_messages
+Invoked command in '/home/izakisyotaro/ros2_studies_ws/build/my_messages' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/izakisyotaro/ros2_studies_ws/build/my_messages
